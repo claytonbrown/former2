@@ -970,6 +970,7 @@ $(document).ready(function(){
         "ap-southeast-2": "Asia Pacific (Sydney)",
         "ap-southeast-3": "Asia Pacific (Jakarta)",
         "ap-southeast-4": "Asia Pacific (Melbourne)",
+        "ap-southeast-7": "Asia Pacific (Thailand)",
         "ap-northeast-1": "Asia Pacific (Tokyo)",
         "ca-central-1": "Canada (Central)",
         "ca-west-1": "Canada West (Calgary)",
